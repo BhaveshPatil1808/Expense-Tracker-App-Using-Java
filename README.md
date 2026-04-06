@@ -79,13 +79,15 @@ CREATE TABLE expenses (
 ---
 
 ## 4️⃣ Compile the project
+```
 javac -d bin src/com/ExpenseTracker/**/*.java
-
+```
 ---
 
 ## 5️⃣ Run the application
+```
 java -cp bin com.ExpenseTracker.Main.MainApp
-
+```
 ---
 
 ## 💬 Usage (CLI Flow)
@@ -141,4 +143,4 @@ Expense-Tracker/
 
 ## 👨‍💻 Author
 **Bhavesh Patil**
-📱 Mobile app integration
+
